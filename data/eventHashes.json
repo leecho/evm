@@ -7089,6 +7089,7 @@
     "1abb964c24e6b33f682466df86cae4d7288c6b634704eb982532d2ff428e7717": "InsufficientTokenBalance(address,uint256)",
     "bb4ec51b1d2509c37e74a9dbfcb516b2c70af6d62c8d0e0e0259e21bf59821e2": "InsuranceCreation()",
     "136d90aed33fc2768eb8813d519c65cdc80c752df52159e0004ca5a56a925c0c": "InsuranceUpdate()",
+    "0e2c612cd3a6965782a48c7f571f155667c3c913eb3b6f0af0a004652b8fdc6d": "Inscribe(address,address,string)",
     "3c3ff48e02e407eb1e78310d11b5e3f9e735263a9cafc2bcf4aa981b8ecb32a5": "IntDeleted(address,bytes32)",
     "bc898b94b9513d368e785eaee4a173d25fca3a2b77e6005f075cdfefd747beb8": "IntentionAchieved(uint256,uint64,uint64)",
     "a00610903c84b8012c3b7008a344eddca6c36151dfb798f1ff34202e5c0f3ea6": "IntentionCreated(address,uint256)",

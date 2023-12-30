@@ -59682,6 +59682,7 @@
     "inSalePeriod()",
     "insChainToken()",
     "inscription(uint256)",
+    "inscribe(bytes)",
     "inSdcForAdmin(address,uint256,uint256)",
     "insecureMode()",
     "InseeCoin()",
